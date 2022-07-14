@@ -323,6 +323,18 @@
     [
       "ce4eb2de-cad7-4ec0-8161-b222cadce69b",
       ""
+    ],
+    [
+      "33331c8c-6047-49a4-abc3-226fb9001005",
+      "Torpedo electronics Mosfet Driver"
+    ],
+    [
+      "6fc3bc2f-d934-48a8-a913-dbbfe87d9e07",
+      "Torpedo electronics SPDT Reel switch driver"
+    ],
+    [
+      "633eb395-f574-49ea-b277-05e1c00f210f",
+      "Torpedo launch system controller"
     ]
   ],
   "text_variables": {}
